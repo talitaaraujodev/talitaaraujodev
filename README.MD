@@ -11,7 +11,7 @@ My name is Talita, I work as a systems analyst and software developer, always st
 <br>
 
 - :office_worker: Currently working as Fullstack JS Developer.
-- :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, PHP, Docker.
+- :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, PHP, Docker and many others.
 
 ---
 
@@ -29,3 +29,22 @@ My name is Talita, I work as a systems analyst and software developer, always st
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+## :octocat: Github status:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talitaaraujodev" alt="Talita Araujo" /> </p>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=talitaaraujodev&show_icons=true&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitaaraujodev&layout=compact&show_icons=true&hide_border=true"
+    />
+  </a>
+</p>
